@@ -1,0 +1,40 @@
+body{
+    background-color:lightblue;
+    margin: 0;
+}
+div{
+    height: 100px;
+    background-color: #E4F9F5;
+
+}
+h1{
+    margin-top: 0;
+}
+
+.top-container{
+    width:200px;
+    height:200px;
+    border:solid;
+    background: orange;
+    padding: top 20px;
+    border-width:10px;
+    margin-left:460px;}
+
+.middle-container{
+    width:200px;
+    height:200px;
+    border:solid;
+    background: white;
+   
+    border-width:10px;
+    margin-left:460px;}
+
+
+.bottom-container{
+    width:200px;
+    height:200px;
+    border:solid;
+    background: green;
+   
+    border-width:10px;
+    margin-left:460px;}
